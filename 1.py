@@ -18,6 +18,4 @@ class Talaba:
 t = Talaba("Xamidullo", "Muratqulov", "26.08.2004")
 t2 = Talaba("Axror", "Akmalov", "08.06.2005")
 t3 = Talaba("Kamol", "Anvarov", "28.09.2002")
-print(t.get_first_name())
-print(t2.get_last_name())   
 print(t2.get_age())
